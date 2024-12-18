@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Edu\2 курс\Логика и основы алгоритмизации\Курсач\Cource\main.cpp(141,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Cource.vcxproj -> D:\Edu\2 курс\Логика и основы алгоритмизации\Курсач\Cource\x64\Debug\Cource.exe
